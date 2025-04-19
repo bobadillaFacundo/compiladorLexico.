@@ -130,13 +130,13 @@ public class App extends JDialog {
     // Métodos crearArchivo y validarArchivo (sin cambios)...
 
     public static void main(String[] args) {
-        App dialog;
+        App frame;
         try {
-            dialog = new App();
-            dialog.pack();
-            dialog.setSize(1100, 500);
-            dialog.setResizable(false);
-            dialog.setVisible(true);
+            frame = new App();
+            frame.pack();
+            frame.setSize(1100, 500);
+            frame.setResizable(false);
+            frame.setVisible(true);
             System.exit(0);
         } catch (FileNotFoundException e) {
             e.printStackTrace();

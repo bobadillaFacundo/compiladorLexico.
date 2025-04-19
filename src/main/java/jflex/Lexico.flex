@@ -13,6 +13,7 @@ import java_cup.runtime.*;
 %type Token
 
 
+
 LETRA= [a-zA-Z]
 DIGITOS= [0-9]
 ID =  {LETRA}({LETRA}|{DIGITOS})*
