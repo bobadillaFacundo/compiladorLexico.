@@ -4,7 +4,6 @@
 
 # 🦊 Compilador Léxico – Java + JFlex + CUP
 
-![Banner](banner.png)
 
 Proyecto académico que demuestra la **construcción de un analizador léxico** (scanner) usando **JFlex** y un analizador sintáctico con **CUP** sobre **Java**, empacado con **Maven**.
 
