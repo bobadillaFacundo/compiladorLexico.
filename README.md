@@ -1,4 +1,7 @@
-https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-1c8c-622f-af47-12ccee5a697d/raw?se=2025-04-29T10%3A27%3A43Z&sp=r&sv=2024-08-04&sr=b&scid=7c101fa3-f9f6-57db-ac82-b01d50a44877&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-29T03%3A08%3A31Z&ske=2025-04-30T03%3A08%3A31Z&sks=b&skv=2024-08-04&sig=a/Lybbjpo74q5VRi%2BHzxaBRCfh9r8eYptkkPYS7ZsDY%3D
+![image](https://github.com/user-attachments/assets/d1b9c8b6-99f2-4ce5-9473-faac355d28a8)
+
+
+
 # 🦊 Compilador Léxico – Java + JFlex + CUP
 
 ![Banner](banner.png)
